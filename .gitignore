@@ -1,0 +1,4 @@
+/target/
+/test-output/
+/src/main/resources/com.clarivate.unittests/
+/unittest/
